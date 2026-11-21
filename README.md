@@ -18,6 +18,9 @@ A keyboard utility that combines the **F** and **G** keys for editing in Fortnit
 **[python-obfuscator](https://github.com/llzkizll/python-obfuscator)** · `Python` · `CLI`  
 A command-line tool for creating obfuscated copies of Python scripts.
 
+**[CURE](https://github.com/llzkizll/CURE)** · `Python` · `Windows`  
+A command-line tool for packaging local Python scripts as Windows executables.
+
 <p align="center">
   <img src="./assets/orbite.gif" width="900" alt="">
 </p>
