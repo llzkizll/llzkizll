@@ -15,6 +15,9 @@
 **[fortnite-macro](https://github.com/llzkizll/fortnite-macro)** · `AutoHotkey v2` · `Windows`  
 A keyboard utility that combines the **F** and **G** keys for editing in Fortnite.
 
+**[python-obfuscator](https://github.com/llzkizll/python-obfuscator)** · `Python` · `CLI`  
+A command-line tool for creating obfuscated copies of Python scripts.
+
 <p align="center">
   <img src="./assets/orbite.gif" width="900" alt="">
 </p>
