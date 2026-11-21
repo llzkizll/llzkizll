@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="./assets/zkiz.gif" width="900" alt="ZKIZ · @llzkizll">
+</h1>
 
-<!--
-**llzkizll/llzkizll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Hey! I share my scripts and utilities here.</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/llzkizll?tab=repositories"><img src="./assets/github.png" height="34" alt="Browse my GitHub repositories"></a>
+  &nbsp;
+  <img src="./assets/discord.png" height="34" alt="Discord · v95j">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+**[fortnite-macro](https://github.com/llzkizll/fortnite-macro)** · `AutoHotkey v2` · `Windows`  
+A keyboard utility that combines the **F** and **G** keys for editing in Fortnite.
+
+<p align="center">
+  <img src="./assets/orbite.gif" width="900" alt="">
+</p>
